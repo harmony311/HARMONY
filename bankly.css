@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+.rightnav{
+    display: flex;
+    gap: 32px;
+    align-items:center;
+
+}
+
+.links{
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+    text-decoration: none;
+    color: blue;
+    font-size: 16px;
+    letter-spacing: 0.6px;
+}
+    .navbutton{
+        padding: 8px 12px;
+        background-color: transparent;
+        border: 0.5px solid;
+        border-radius: 8px;
+        color:hsl(hue, saturation, lightness);
+        front-size:
+
+    }
